@@ -1,0 +1,1 @@
+Five silent, optimised MP4 files are included. studio.mp4 is the default 12-second hero montage. See the root README and ASSETS.json for source excerpts, replacement instructions and playback behaviour. Original uploads are not modified.

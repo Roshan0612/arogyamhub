@@ -1,0 +1,223 @@
+[
+  {
+    "asset": "/images/yoga.webp",
+    "source": "image(20261013-181511).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/yoga-wide.webp",
+    "source": "image(20261013-181456).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/air-bike.webp",
+    "source": "image(20261013-181525).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/rowing.webp",
+    "source": "image(20261013-181554).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/community.webp",
+    "source": "image(20261013-181737).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/community-small.webp",
+    "source": "image(20261013-181607).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/equipment.webp",
+    "source": "image(20261013-181627).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/dumbbells.webp",
+    "source": "image(20261013-181637).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/weights.webp",
+    "source": "image(20261013-181652).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/studio.webp",
+    "source": "image(20261013-181704).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/exterior.webp",
+    "source": "image(20261013-181542).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/movement.webp",
+    "source": "image(20261013-181800).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/floor-training.webp",
+    "source": "image(20261013-181810).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/studio-mark.webp",
+    "source": "image(20261013-181853).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/aerial-yoga.webp",
+    "source": "image(20261013-182809).png",
+    "crop": null,
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/images/logo.webp",
+    "source": "image(20261013-182453).png",
+    "crop": [
+      350,
+      112,
+      893,
+      731
+    ],
+    "sourceType": "user-supplied screenshot",
+    "approval": "Confirm owner approval and replace with originals before launch."
+  },
+  {
+    "asset": "/videos/circuit-training.mp4",
+    "source": "AQMCekV7Q77mPcooZTyg13kgyEEClu6BHEnMtGSbQAua5wYu8-t2Er46vuyJCqi_ijX9WdbdH38Ezykywg9kPoDKCrtq1pnu4XUaRIc.mp4",
+    "startSeconds": 1,
+    "durationSeconds": 12,
+    "audio": "removed for lightweight silent website preview",
+    "approval": "Owner approval required for public launch."
+  },
+  {
+    "asset": "/images/video-circuit-training.webp",
+    "source": "/videos/circuit-training.mp4",
+    "type": "poster at 0.5 seconds"
+  },
+  {
+    "asset": "/videos/strength-agility.mp4",
+    "source": "AQOb__5G-iHzPbMuN5XxT-ZRYMCY0zj2QkfadZNEqlZT1tSwOu2zPqfind_xax5kxK3Q33lJVYWSbfxcNfapKDWfbr0Mj62eTss.mp4",
+    "startSeconds": 6,
+    "durationSeconds": 12,
+    "audio": "removed for lightweight silent website preview",
+    "approval": "Owner approval required for public launch."
+  },
+  {
+    "asset": "/images/video-strength-agility.webp",
+    "source": "/videos/strength-agility.mp4",
+    "type": "poster at 0.5 seconds"
+  },
+  {
+    "asset": "/videos/zumba.mp4",
+    "source": "Bringing high voltage energy to every beat! \u26a1..\ud83c\udfb5-- voltage @zumbamusiclab \ud83e\udde0-- @zjflorsalgado @.mp4",
+    "startSeconds": 24,
+    "durationSeconds": 16,
+    "audio": "removed for lightweight silent website preview",
+    "approval": "Owner approval required for public launch."
+  },
+  {
+    "asset": "/images/video-zumba.webp",
+    "source": "/videos/zumba.mp4",
+    "type": "poster at 0.5 seconds"
+  },
+  {
+    "asset": "/videos/mat-movement.mp4",
+    "source": "Building strength from the ground up... literally._Left, right, twist, and stretch! \ud83c\udfb6 Getting.mp4",
+    "startSeconds": 0,
+    "durationSeconds": 9,
+    "audio": "removed for lightweight silent website preview",
+    "approval": "Owner approval required for public launch."
+  },
+  {
+    "asset": "/images/video-mat-movement.webp",
+    "source": "/videos/mat-movement.mp4",
+    "type": "poster at 0.5 seconds"
+  },
+  {
+    "asset": "/videos/studio.mp4",
+    "source": [
+      "/videos/circuit-training.mp4",
+      "/videos/strength-agility.mp4",
+      "/videos/zumba.mp4",
+      "/videos/mat-movement.mp4"
+    ],
+    "durationSeconds": 12,
+    "audio": "none",
+    "type": "three seconds from each preview, starting at one second"
+  },
+  {
+    "asset": "/images/video-hero.webp",
+    "source": "/videos/studio.mp4",
+    "type": "poster at 0.5 seconds"
+  },
+  {
+    "asset": "/images/enhanced-strength.webp",
+    "source": "exec-6d1480d9-81f6-4a37-844a-22e3593e7109.png",
+    "sourceType": "AI-retouched user-supplied studio photograph",
+    "processing": "WebP quality 83, max width 1200, original composition retained",
+    "approval": "User requested website integration. Owner should review likeness and reconstructed image details before public launch."
+  },
+  {
+    "asset": "/images/enhanced-aerial.webp",
+    "source": "exec-54c0390a-3197-44bb-b246-ac654c5d5771.png",
+    "sourceType": "AI-retouched user-supplied studio photograph",
+    "processing": "WebP quality 83, max width 1200, original composition retained",
+    "approval": "User requested website integration. Owner should review likeness and reconstructed image details before public launch."
+  },
+  {
+    "asset": "/images/enhanced-yoga.webp",
+    "source": "exec-357e6123-0167-43c9-8875-4d92cc107bcb.png",
+    "sourceType": "AI-retouched user-supplied studio photograph",
+    "processing": "WebP quality 83, max width 1200, original composition retained",
+    "approval": "User requested website integration. Owner should review likeness and reconstructed image details before public launch."
+  },
+  {
+    "asset": "/images/enhanced-zumba.webp",
+    "source": "exec-7a1a5572-531d-484d-836d-236c66983104.png",
+    "sourceType": "AI-retouched user-supplied studio photograph",
+    "processing": "WebP quality 83, max width 1200, original composition retained",
+    "approval": "User requested website integration. Owner should review likeness and reconstructed image details before public launch."
+  },
+  {
+    "asset": "/images/enhanced-zumba-hero.webp",
+    "source": "exec-7a1a5572-531d-484d-836d-236c66983104.png",
+    "sourceType": "AI-retouched user photo, mobile crop",
+    "crop": "Removed upper 26% of ceiling; full width retained",
+    "processing": "WebP quality 83, max width 900"
+  }
+]
